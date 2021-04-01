@@ -1,5 +1,5 @@
-## FetcherListApp
-# Android detection library
+# FetcherListApp
+## Android detection library
 
 This library has to detect whether the user is a humain or a bot while displaying a list of albums.
 We relay on 3 detect ways:
